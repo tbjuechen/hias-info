@@ -28,7 +28,7 @@
 ```json
 {
   "title": "文档标题",
-  "content": "文档正文",
+  "path": "文档路径",
   "metadata": {
     "tags": ["tag1", "tag2"],
     "author": "可选"
